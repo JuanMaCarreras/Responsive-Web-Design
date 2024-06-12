@@ -1,61 +1,61 @@
 ## Construye una página de inicio de producto
 
-#### 1.
+#### 1. Elemento Header
 
-Tu página de inicio de producto debe tener un elemento header con un correspondiente id="header".
+    Tu página de inicio de producto debe tener un elemento header con el id header.
 
-#### 2.
+#### 2. Imagen de Logotipo
 
-Puedes ver una imagen dentro del elemento header con un correspondiente id="header-img" (Un logotipo sería una buena imagen).
+    Dentro del elemento header, debe haber una imagen con el id header-img, la cual representa el logotipo de tu producto.
 
-#### 3.
+#### 3. Barra de Navegación
 
-Dentro el elemento #header, puedes ver un elemento nav con su correspondiente id="nav-bar".
+    Dentro del elemento header, puede verse un elemento nav con el id nav-bar.
 
-#### 4.
+#### 4. Elementos Navegación
 
-Puedes ver al menos tres elementos cliqueables dentro del elemento nav, cafda una con la clase nav-link.
+    Dentro de la barra de navegación (nav-bar), deben existir al menos tres elementos clickeables, cada uno con la clase nav-link.
 
-#### 5.
+#### 5. Navegación por Click
 
-Cuando hagas click en un botón .nav-link en el elemento nav, serás redireccionado a la sección correspondiente de la página de inicio.
+    Al hacer clic en un elemento .nav-link dentro de la barra de navegación, deberías ser redirigido a la sección correspondiente de la página de inicio.
 
-#### 6.
+#### 6. Video del Producto
 
-Puedes ver un vídeo del producto incrustado con id="video".
+    En la página de inicio, debe haber un video incrustado del producto con el id video.
 
-#### 7.
+#### 7. Formulario de Contacto
 
-Tu página de inicio tiene un elemento form con un correspondiente id="form".
+    Tu página de inicio debe incluir un formulario con el id form.
 
-#### 8.
+#### 8. Campo de Email
 
-Dentro del formulario, hay un campo input con id="email", donde puedes ingresar tu dirección de email.
+    Dentro del formulario, debe haber un campo de entrada de texto con el id email, diseñado para ingresar direcciones de correo electrónico.
 
-#### 9.
+#### 9. Marcador de Texto en Email
 
-El campo de entrada #email debe tener un marcador de texto para que los usuarios sepan para que sirve este campo.
+    El campo de entrada email debe tener un marcador de texto que indique su propósito a los usuarios.
 
-#### 10.
+#### 10. Validación de Email
 
-El campo de entrada #email usa validación HTML5 para confirmar que el texto ingresado es una dirección de email.
+    El campo de entrada email debe utilizar la validación HTML5 para confirmar que el texto ingresado es una dirección de correo electrónico válida.
 
-#### 11.
+#### 11. Botón de Envío
 
-Dentro del formulario, hay un input de tipo submit (enviar) con su correspondiente id="submit".
+    Dentro del formulario, debe haber un botón de tipo submit con el id submit.
 
-#### 12.
+#### 12. Envío de Email
 
-Cuendo haces click en el elemento #submit, el email es enviado a una página web (Utiliza esta URL de pruebas: https://www.freecodecamp.com/email-submit).
+    Cuando se hace clic en el elemento submit, el formulario debe enviar el email a una página web específica (URL de pruebas: https://www.freecodecamp.com/email-submit).
 
-#### 13.
+#### 13. Barra de Navegación Fija
 
-La barra de navegación siempre debe estar en la parte superior de la vista.
+    La barra de navegación (nav-bar) debe permanecer siempre visible en la parte superior de la vista del usuario.
 
-#### 14.
+#### 14. Consulta de Medios
 
-Tu página de inicio de tu producto debe tener al menos una consulta de medios.
+    Tu página de inicio de producto debe incluir al menos una consulta de medios para adaptarse a diferentes tamaños de pantalla.
 
-#### 15.
+#### 15. Uso de Flexbox
 
-Tu página de inicio del producto debe utillizar el flexbox CSS al menos una vez.
+    Tu página de inicio de producto debe utilizar CSS Flexbox al menos una vez para mejorar el diseño y la disposición de los elementos.
