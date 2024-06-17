@@ -1,6 +1,6 @@
-## Responsive Web Design
+# Responsive Web Design
 
-#### FreeCodeCamp
+### FreeCodeCamp
 
 En esta certificación de Diseño Web Adaptativo, aprenderás los lenguajes que los desarrolladores usan para construir páginas web: HTML (Lenguaje de Marcado de Hipertexto) para el contenido, y CSS (hojas de estilo en cascada) para el diseño.
 
